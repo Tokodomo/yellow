@@ -6,6 +6,7 @@
 <meta name="author" content="<?php echo $yellow->page->getHtml("author") ?>" />
 <meta name="generator" content="Datenstrom Yellow" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="referrer" content="same-origin" />
 <title><?php echo $yellow->page->getHtml("titleHeader") ?></title>
 <?php echo $yellow->page->getExtra("header") ?>
 </head>
